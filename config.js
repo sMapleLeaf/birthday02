@@ -26,7 +26,18 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的老婆": "./imgs/1213.jpg",
+        "全珍珍，生日快乐 ！":"./imgs/1213.jpg",
+        "愿你贪吃不胖":"./imgs/xiaokeai2.jpg",      
+        "愿你懒惰不丑":"./imgs/1213.jpg",  
+        "愿你永远健康美好依旧":"./imgs/xiaokeai2.jpg",
+        "愿你从旧衣服找到零钱":"./imgs/1213.jpg",
+        "愿你做过的美梦全都实现":"./imgs/xiaokeai2.jpg",
+        "愿你永远都有好运气":"./imgs/1213.jpg",
+        "愿这岁月悠长":"./imgs/xiaokeai2.jpg",
+        "我们即使不见亦能不散":"./imgs/1213.jpg",
+        "若这一切太难":"./imgs/xiaokeai2.jpg",
+        "一生平安 !":"./imgs/1213.jpg",
+        "吼哈 !":"./imgs/xiaokeai2.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
