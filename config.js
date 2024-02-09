@@ -3,7 +3,7 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "全珍珍，生日快乐 ！",
+        "全珍珍，除夕快乐 ！",
         "愿你贪吃不胖",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "愿你懒惰不丑",  // 同上...
         "愿你永远健康美好依旧",
@@ -26,7 +26,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "全珍珍，生日快乐 ！":"./imgs/1213.jpg",
+        "全珍珍，除夕快乐 ！":"./imgs/1213.jpg",
         "愿你贪吃不胖":"./imgs/xiaokeai2.jpg",      
         "愿你懒惰不丑":"./imgs/1213.jpg",  
         "愿你永远健康美好依旧":"./imgs/xiaokeai2.jpg",
@@ -48,7 +48,7 @@ var config = {
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        wish_message: "除夕快乐",
         story: "A MESSAGE FOR YOU",
     }
 };
